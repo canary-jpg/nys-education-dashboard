@@ -2,9 +2,9 @@
 
 Interactive dashboard analyzing education outcomes for 182 districts in the New York City metropolitan area.
 
-![Dashboard Preview]('../images/dashboard_preview.png')
+![Dashboard Preview]('images/dashboard_preview.png')
 
-! [Equity Analysis]('../images/equity_analysis.png')
+! [Equity Analysis]('images/equity_analysis.png')
 
 
 ## 📊 Overview
@@ -137,7 +137,7 @@ Top-level statistics for selected region and year
 ### 2. Summary Statistics
 Comprehensive statistical analysis (mean, median, min, max, std dev) for all metrics
 
-![Summary Stats]('../images/summary_stats.png')
+![Summary Stats]('images/summary_stats.png')
 
 ### 3. Visualization
 - County enrollment comparison (bar chart)
@@ -207,7 +207,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-For questions, collaborations, or data analysis consulting inquiries, reach out at your.email@example.com
+For questions, collaborations, or data analysis consulting inquiries, reach out at hazel90.hd@gmail.com
 
 ---
 
