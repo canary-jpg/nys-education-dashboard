@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Data files (these are large and should be downloaded by users)
+data/raw/*.accdb
+data/raw/*.mdb
+data/raw/*.xlsx
+data/raw/*.xls
+
+# Keep processed CSVs but ignore if too large
+data/processed/*.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Logs
+*.log
+
+# Environment variables
+.envdata/raw/*.mdb
+data/raw/*.accdb
+data/raw/*.xlsx

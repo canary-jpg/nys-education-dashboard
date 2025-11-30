@@ -1,0 +1,20 @@
+# Data processing
+pandas==2.1.4
+numpy==1.26.2
+openpyxl==3.1.2  # For reading Excel files
+# Note: We use mdb-tools (installed via Homebrew) to read Access databases on Mac
+
+# Visualization
+plotly==5.18.0
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Dashboard
+streamlit==1.29.0
+
+# Jupyter
+jupyter==1.0.0
+ipykernel==6.27.1
+
+# Utilities
+python-dotenv==1.0.0
