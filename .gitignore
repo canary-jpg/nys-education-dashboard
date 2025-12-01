@@ -23,6 +23,7 @@ data/raw/*.xls
 
 # Keep processed CSVs but ignore if too large
 data/processed/*.csv
+!data/processed/master_data.csv 
 
 # IDE
 .vscode/
