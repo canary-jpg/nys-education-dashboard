@@ -4,7 +4,7 @@ Interactive dashboard analyzing education outcomes for 182 districts in the New 
 
 ![Dashboard Preview](images/dashboard_preview.png)
 
-! [Equity Analysis](images/equity_analysis.png)
+![Equity Analysis](images/equity_analysis.png) 
 
 
 ## 📊 Overview
