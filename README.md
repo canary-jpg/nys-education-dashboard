@@ -195,7 +195,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👤 Author
 
 **Hazel Donaldson**
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- Portfolio: [nys-education-dashboard](https://nys-education-dashboard.streamlit.app/)
 - LinkedIn: [linkedin.com/in/hazel-donaldson](https://linkedin.com/in/hazel-donaldson)
 - GitHub: [@canary-jpg](https://github.com/canary-jpg)
 
